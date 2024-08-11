@@ -1,0 +1,28 @@
+OrcBot - Privacy Policy
+1. Data Collection
+
+OrcBot collects minimal data necessary for its operation, including but not limited to command history and usage statistics.
+No personal data, such as names, email addresses, or IP addresses, is collected without explicit consent.
+2. Data Usage
+
+Collected data is used solely to enhance the bot’s performance and provide better service.
+Data may be anonymized and aggregated for analytical purposes.
+3. Data Storage and Security
+
+All data is stored securely and is accessible only to the developers of OrcBot.
+We implement appropriate security measures to protect your data from unauthorized access.
+4. Data Sharing
+
+OrcBot does not share your data with third parties unless required by law or for security purposes.
+Data may be shared with Discord in accordance with their policies and terms.
+5. User Rights
+
+You have the right to request access to, correction of, or deletion of your data collected by OrcBot.
+Requests can be made through the official support channel.
+6. Changes to the Privacy Policy
+
+The Privacy Policy may be updated periodically. Users will be notified of any significant changes.
+Continued use of OrcBot after changes to the Privacy Policy constitutes acceptance of the new terms.
+7. Contact Information
+
+For questions or concerns regarding this Privacy Policy, please contact the developers through the official support channel.
